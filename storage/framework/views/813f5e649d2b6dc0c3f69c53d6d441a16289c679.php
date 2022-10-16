@@ -1,0 +1,2 @@
+<?php echo $__env->make('recipe.modal.create', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
+<?php echo $__env->make('recipe.modal.edit', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH C:\xampp\htdocs\csiledesroses\resources\views/recipe/modal/modal.blade.php ENDPATH**/ ?>

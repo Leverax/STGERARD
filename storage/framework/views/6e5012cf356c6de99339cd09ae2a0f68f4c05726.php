@@ -1,0 +1,2 @@
+<?php echo $__env->make('student.modal.create', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
+<?php echo $__env->make('student.modal.edit', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH C:\wamp64\www\review\cspyramides\resources\views/student/modal/modal.blade.php ENDPATH**/ ?>
